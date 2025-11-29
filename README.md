@@ -1,6 +1,7 @@
 # -Project2-Nishtha-Punjani https://onecompiler.com/postgresql/4463t7bbm
 Project: Student Database Management System(PostgreSQL) Objective: Design and implement a student database management system using PostgreSQL that allows storing and retrieving student information efficiently. The project will include the following tasks:
 
+(The oncompiler software is not letting me use the creating database code (CREATE DATABASE student_database;) it is showing some permission errors)
 
 -- 1.Database Setup : Create a database named "student_database."Create a table called " student_table " with the following columns: Student_id (integer),Stu_name (text), Department (text), email_id (text ),Phone_no (numeric), Address (text),Date_of_birth (date), Gender (text), Major (text), GPA (numeric),Grade (text) should be A,B,C etc.
 
